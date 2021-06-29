@@ -1,0 +1,11 @@
+[[source]]
+url = "http://mirrors.cloud.tencent.com/pypi/simple/"
+verify_ssl = true
+name = "tencent"
+
+[packages]
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
