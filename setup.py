@@ -4,7 +4,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Mset",
+    name="mirror-set",
     version=0.1,
     description=("A tool for quickly set mirror for apt/yum/pip/npm..."),
     long_description=open("README.md").read(),
